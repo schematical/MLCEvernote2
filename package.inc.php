@@ -24,6 +24,6 @@ MLCApplicationBase::$arrClassFiles['MLCEvernoteDriver'] = __MLC_EVERNOTE_CORE_MO
 MLCApplicationBase::$arrClassFiles['MLCApiEvernote'] = __MLC_EVERNOTE_CORE_MODEL__ . '/MLCApiEvernote.class.php';
 
 
-
+require_once(__MLC_EVERNOTE_CORE__ . '/_exception.inc.php');
 
 
